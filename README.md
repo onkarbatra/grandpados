@@ -21,7 +21,7 @@ That's all it takes to install and run grandpa.py.
 If you want to clone using git instead of pip, here's how you do it.
 
 * `git clone https://github.com/onkarbatra/grandpados.git`
-* `cd grandpados-main`
+* `cd grandpados`
 * `python3 grandpados.py example.com`
 
 ### SOCKS5 proxy support
